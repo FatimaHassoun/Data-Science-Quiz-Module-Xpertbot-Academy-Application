@@ -94,6 +94,7 @@ TRACKS = ["Web Development", "Data Science", "Mobile Development", "Project Mana
 - Plotly Express
 - NumPy
 
+
 ## 🎨 Features in Detail
 
 ### Data Visualization
@@ -101,3 +102,10 @@ TRACKS = ["Web Development", "Data Science", "Mobile Development", "Project Mana
 - **Bar Charts**: Question distribution by track
 - **Scatter Plots**: Marks vs. time analysis
 - **Interactive Charts**: Hover data and filtering
+
+  
+## 📷 Screenshots 
+
+<img width="1921" height="2296" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/7efe497a-b153-4b2c-8a0c-fb793f7fe77a" />
+
+<img width="1921" height="1980" alt="User dashboard" src="https://github.com/user-attachments/assets/f8caffee-bf9b-41e4-ab8d-e40e3363a0a4" />
