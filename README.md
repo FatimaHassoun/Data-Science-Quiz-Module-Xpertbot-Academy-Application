@@ -1,4 +1,4 @@
-# Internship Project Summary - Quiz Module - XpertBot Academy
+# Internship Project Summary - Quiz Module - XpertBot Academy Application
 **Role: Data Scientist**
 ---
 
