@@ -1,4 +1,6 @@
-# Quiz Module - XpertBot Academy Data Science
+# Internship Project Summary - Quiz Module - XpertBot Academy
+Role: Data Scientist
+Project: Quiz Module- XpertBot Academy Application
 
 A quiz management system built with Streamlit. This application provides both administrative and user dashboard interfaces for managing and monitoring multiple-choice quiz data across various tracks.
 
