@@ -27,7 +27,7 @@ A quiz management system built with Streamlit. This application provides both ad
 
 The system manages quiz data with the following structure:
 
-- **Track**: Educational category (Cybersecurity, Data Science, Mobile Development)
+- **Track**: Educational category (Cybersecurity, Data Science, Web Development, Mobile Development, Project Management, Quality Assurance)
 - **Question**: The quiz question text
 - **Options**: Up to 4 multiple-choice options
 - **Correct Answer**: The correct option
